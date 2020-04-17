@@ -1,4 +1,2 @@
-# kquiballo.github.io
-
-## CONTENTS OF THIS PORTFOLIO
-SMMC - Data Analyst Internship with Student Money Management Center   (F19-S20)
+# Data Analyst Internship with Student Money Management Center 
+## August 2019 - May 2020
